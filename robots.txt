@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://adas2k.github.com/sitemap.xml 

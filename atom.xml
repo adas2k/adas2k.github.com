@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Blog]]></title>
+  <link href="http://adas2k.github.com/atom.xml" rel="self"/>
+  <link href="http://adas2k.github.com/"/>
+  <updated>2013-03-10T21:53:22-04:00</updated>
+  <id>http://adas2k.github.com/</id>
+  <author>
+    <name><![CDATA[A. Das]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
